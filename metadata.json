@@ -1,0 +1,5 @@
+{
+  "name": "LexSimulator - Mock Court AI",
+  "description": "A professional legal analysis tool simulating court proceedings for the Shenzhen Tilswall vs. Dongguan Ruijiang contract dispute. Features automated case analysis, document generation, and an AI legal assistant.",
+  "requestFramePermissions": []
+}
